@@ -1,12 +1,13 @@
-# Welcome to your CDK C# project!
 
-This is a blank project for CDK development with C#.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+## Resources
+### CDK Cloudwatch Metric .net Reference: 
+    https://docs.aws.amazon.com/cdk/api/v2/dotnet/api/Amazon.CDK.AWS.CloudWatch.html
 
-It uses the [.NET Core CLI](https://docs.microsoft.com/dotnet/articles/core/) to compile and execute your project.
 
-## Useful commands
+    
+
+## Sett Useful commands
 
 * `dotnet build src` compile this app
 * `cdk deploy`       deploy this stack to your default AWS account/region
@@ -14,7 +15,3 @@ It uses the [.NET Core CLI](https://docs.microsoft.com/dotnet/articles/core/) to
 * `cdk synth`        emits the synthesized CloudFormation template
 
 
-
-## Resources
-### CDK Cloudwatch Metric .net Reference: 
-    https://docs.aws.amazon.com/cdk/api/v2/dotnet/api/Amazon.CDK.AWS.CloudWatch.html
