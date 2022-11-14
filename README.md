@@ -4,7 +4,8 @@
 ### CDK Cloudwatch Metric .net Reference: 
     https://docs.aws.amazon.com/cdk/api/v2/dotnet/api/Amazon.CDK.AWS.CloudWatch.html
 
-
+### FSx for Windows File Server performance
+    https://docs.aws.amazon.com/fsx/latest/WindowsGuide/performance.html
     
 
 ## Sett Useful commands
